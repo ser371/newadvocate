@@ -1,0 +1,318 @@
+/*
+================================================
+Common CSS
+================================================
+*/
+
+.section-title h2:before {
+    border: 2px dotted #dca44d;
+}
+
+.section-title h2:after {
+    border: 2px dotted #dca44d;
+}
+
+.section-title h2 span {
+    color: #dca44d;
+}
+
+/*
+================================================
+Scroll top Arrow
+================================================
+*/
+
+#scrollUp i:hover {
+    background: #dca44d;
+    color: #fff;
+}
+
+/*
+================================================
+Top Bar
+================================================
+*/
+
+.top-bar {
+    background: #515b78;
+    padding: 0;
+    font-size: 13px;
+}
+
+.top-header-wrapper ul li a:hover {
+    background: #dca44d;
+}
+
+.list-unstyled li.quote a {
+    background: #dca44d;
+    color: #fff;
+}
+
+/*
+================================================
+Logo
+================================================
+*/
+
+.logo a {
+    color: #dca44d;
+}
+
+/*
+================================================
+Navigation
+================================================
+*/
+
+.header-top-area .navbar-nav>li.active>a::before {
+    background: #dca44d;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #dca44d;
+}
+
+.menu-bg .navbar-default .navbar-nav li a:hover {
+    color: #dca44d;
+}
+
+/*
+================================================
+Banner Content
+================================================
+*/
+
+.banner-content h1 span.morphext {
+    border: 2px solid #dca44d;
+}
+
+.banner-content .btn:before {
+    background: #fbb829;
+    border: 1px solid #dca44d;
+}
+
+.banner-content .btn {
+    color: #fff;
+    border: 1px solid #515b78;
+    background: #515b78;
+}
+
+.banner-content .btn:hover,
+.banner-content .btn:focus,
+.banner-content .btn:active {
+    color: #000;
+}
+
+/*
+================================================
+About Us
+================================================
+*/
+
+.readmore {
+    background: #515b78;
+    border: 1px solid #515b78;
+    color: #fff;
+}
+
+.readmore:hover,
+.readmore:focus,
+.readmore:active {
+    color: #fff;
+}
+
+.readmore:before {
+    background: #dca44d;
+}
+
+.readmore:hover,
+.readmore:focus,
+.readmore:active {
+    color: #000;
+    border: 1px solid #dca44d;
+}
+
+.readmore:hover:before,
+.readmore:focus:before,
+.readmore:active:before {
+    border: 1px solid #dca44d;
+}
+
+.we-do>ul li i {
+    color: #dca44d;
+}
+
+div.progress-bar {
+    background-color: #dca44d;
+}
+
+/*
+================================================
+Services
+================================================
+*/
+
+.service-callouts .service-box i.fa {
+    color: #dca44d;
+}
+
+/*
+================================================
+Our Team
+================================================
+*/
+
+.team-social a {
+    background: #dca44d;
+}
+
+.team-social a:hover {
+    color: #dca44d;
+}
+
+.caption-text h3>a:hover {
+    color: #dca44d
+}
+
+/*
+================================================
+Call to action
+================================================
+*/
+
+.call-to-action {
+    background: #515b78;
+}
+
+.call-to-action .btn {
+    color: #fff;
+    border: 1px solid #dca44d;
+}
+
+.call-to-action .btn:before {
+    background: #dca44d;
+    border: 1px solid #dca44d;
+}
+
+.call-to-action .btn:hover,
+.call-to-action .btn:focus,
+.call-to-action .btn:active {
+    color: #000;
+}
+
+/*
+================================================
+Testimonials Wrapper 
+================================================
+*/
+
+.testimonial-img>i {
+    background: #dca44d;
+}
+
+.testimonial-rating li i {
+    color: #dca44d;
+}
+
+.testimonials-wrapper .carousel-indicators .active {
+    background: #dca44d;
+}
+
+.textimonial-text>i {
+    color: #dca44d;
+}
+
+/*
+================================================
+Satisfied-wrapper
+================================================
+*/
+
+.satisfied-wrapper:before {
+    background: #515b78;
+}
+
+.satisfied-wrapper .counter .icon span {
+    color: #dca44d;
+}
+
+/*
+================================================
+Pricing Table
+================================================
+*/
+
+.pricing-table-wrapper .features-price {
+    background: #515b78;
+    color: #fff;
+}
+
+.pricing-table-wrapper .plan-price {
+    background: #515b78;
+}
+
+.pricing-table-wrapper .features-price .plan-price {
+    background: #fff;
+}
+
+.pricing-table-wrapper .features-price .plan-price>h4,
+.pricing-table-wrapper .features-price .plan-price>h4>span,
+.pricing-table-wrapper .features-price .duration {
+    color: #515b78;
+}
+
+.pricing-table-wrapper .features-price .btn {
+    background: #fff;
+}
+
+.pricing-table-wrapper .features-price .btn:hover {
+    background: #eef1f2;
+    color: #333;
+}
+
+.pricing-table-wrapper .features-price .price-title {
+    color: #fff;
+}
+
+.pricing-table-wrapper .features-price .price-amount,
+.pricing-table-wrapper .features-price .price-amount span {
+    color: #515b78;
+}
+
+.pricing-table-wrapper .price-btn:hover {
+    background: #515b78;
+    color: #fff;
+}
+
+.features-price-btn {
+    background: #515b78;
+}
+
+/*
+================================================
+video wrapper
+================================================
+*/
+
+.video-wrapper:before {
+    background: #515b78;
+}
+
+/*
+================================================
+Contact us
+================================================
+*/
+
+.contact-form .fa {
+    color: #dca44d;
+}
+
+.contact-address .contact-info .contact-icon {
+    color: #dca44d;
+}
+
+.contactus .media-box .media-icon {
+    color: #dca44d;
+}
